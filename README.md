@@ -5,11 +5,11 @@
 - **Languages**: Tranditional Chinese (Native) 🇹🇼｜English 🌍  
 
 🎓 **Education**
-- **Fu Jen Catholic University – Software Creativity Program (Ongoing)**🖥️  
-- **Fu-Hsin Trade & Arts School – Department of Advertising Design** 🎨  
+- Fu Jen Catholic University – Software Creativity Program (Ongoing)🖥️  
+- Fu-Hsin Trade & Arts School – Department of Advertising Design 🎨  
 
 
-🌱 Interests & Traits
+🌱 **Interests & Traits**
 - 📚 Passionate about learning new technologies and cross-disciplinary knowledge  
 - 🎨 Skilled in visual design & creative projects  
 - 🏃‍♂️ Jogging & 🖥️Video gamer
