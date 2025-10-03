@@ -5,7 +5,7 @@
 - **Languages**: Tranditional Chinese (Native) 🇹🇼｜English 🌍  
 
 🎓 **Education**
-- Fu Jen Catholic University – Software Creativity Program (Ongoing)🖥️  
+- Fu Jen Catholic University – PROGRAM IN SOFTWARE ENGINEERING AND DIGITAL INNOVATION APPLICATION (Ongoing)🖥️  
 - Fu-Hsin Trade & Arts School – Department of Advertising Design 🎨  
 
 
