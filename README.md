@@ -2,7 +2,7 @@
 - **Name**: Iman Wang
 - **Email**: blacksky030689@gmail.com  
 - **Programming**: Python 🐍｜Java ☕｜SQL 🗄  
-- **Languages**: Tranditional Chinese (Native) 🇹🇼｜English 🌍  
+- **Languages**: Traditional Chinese (Native) 🇹🇼｜English 🌍  
 
 🎓 **Education**
 - Fu Jen Catholic University – PROGRAM IN SOFTWARE ENGINEERING AND DIGITAL INNOVATION APPLICATION (Ongoing)🖥️  
