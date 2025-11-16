@@ -12,4 +12,4 @@
 🌱 **Interests & Traits**
 - 📚 Passionate about learning new technologies and cross-disciplinary knowledge  
 - 🎨 Skilled in visual design & creative projects  
-- 🏃‍♂️ Jogging & 🖥️Video gamer
+- 🏃‍♂️ Jogging & 🖥️Video games
